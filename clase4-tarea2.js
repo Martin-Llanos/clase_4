@@ -1,6 +1,6 @@
 //Tarea 2
 let contador = 10;
 while(contador >= 1){
-    console.log(contador);
+    console.log(10 > 1);
     contador --;
 }

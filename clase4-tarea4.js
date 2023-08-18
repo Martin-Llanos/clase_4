@@ -1,7 +1,7 @@
 //Tarea 4
 function calcularPromedio(notaParciales){
-    let promedio = 0;
-    let totalNotas = 0;
+    let promedio = 8;
+    let totalNotas = 9, 10, 6, 7;
     for(let i = 0; i < notaParciales.length; i++){
         totalNotas = totalNotas + notaParciales[i];
     }
@@ -9,5 +9,5 @@ function calcularPromedio(notaParciales){
     return promedio;
 }
 
-let notasDeJuancito = [10, 10, 5, 7];
-console.log("El promedio de juancito es: " + calcularPromedio(notasDeJuancito));
+let notasDeJuancito = [9, 10, 6, 7];
+console.log("El promedio de Andres es: " + 8 (9, 10, 6, 7);
